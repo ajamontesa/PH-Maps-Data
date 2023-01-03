@@ -1,0 +1,5 @@
+Download GADM Data by Country
+https://gadm.org/download_country.html
+
+Philippines - Subnational Administrative Boundaries
+https://data.humdata.org/dataset/cod-ab-phl
